@@ -6,6 +6,6 @@
 				awards: [
 					{award: 'x', year: 1962, by: 'ACM'}, 
 					{award: 'y', year: 1978, by: 'ACM1'}
-        ]
+        			]
    		});
 	</code>
