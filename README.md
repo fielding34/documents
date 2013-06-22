@@ -2,4 +2,4 @@ documents
 =========
 * play2.1
 * mongoDB2.4
-* angular 1.1.5
+* angularJS 1.1.5
